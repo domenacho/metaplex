@@ -1,0 +1,9 @@
+{
+  "name": "Metaplex",
+  "version": "1",
+  "description": "Prueba storefront",
+  "main": "what",
+  "repository": "https://github.com/domenacho/metaplex.git",
+  "author": "domenacho <43214138+domenacho@users.noreply.github.com>",
+  "license": "MIT"
+}
